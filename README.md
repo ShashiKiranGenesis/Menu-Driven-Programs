@@ -9,7 +9,7 @@
   </li>
   <li>
     AVL Trees - Self Balanced Binary Search Trees - Very well Modulated using OOPS
-    <p>Destruct Pending (Deletion Available)</p>
+    <p>Destruction Pending (Deletion Available)</p>
     
   </li>
 </ul>
